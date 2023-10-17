@@ -5,7 +5,7 @@ The goal of this assignment is to explore the concept of bias in data using Wiki
 # Folder Hierarchy
 
 ├── Data/<br>
-&nbsp;├── Population.xlsx<br>
+&nbsp;&nbsp;&nbsp;├── Population.xlsx<br>
     ├── US States by Region - US Census Bureau.xlsx<br>
     ├── Wiki_Scraped_data.csv<br>
     ├── ores_score.csv<br>
