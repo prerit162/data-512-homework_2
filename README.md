@@ -73,13 +73,15 @@ Stub - Stub-class article
 
 [ORES LiftWing documentation](https://wikitech.wikimedia.org/wiki/Machine_Learning/LiftWing/Usage)
 
-# Code
+# Licenses and Reference Code
 
 [Reference Code for MediaWiki API](https://colab.research.google.com/drive/15UoE16s-IccCTOXREjU3xDIz07tlpyrl)
 
 [Reference Code for ORES API](https://colab.research.google.com/drive/17C9xsmR9U3lJeD52UTbAedlHDetwYsxs#scrollTo=GgcjNS0j2VSQ)
 
-[License](https://creativecommons.org/licenses/by/4.0/)
+[Creative Commons License](https://creativecommons.org/licenses/by/4.0/)
+
+[Wikimedia Foundation REST API](https://www.mediawiki.org/wiki/API:REST_API#Terms_and_conditions)
 
 
 # Output
