@@ -25,7 +25,9 @@ The goal of this assignment is to explore the concept of bias in data using Wiki
 Before using this code, ensure you have the following prerequisites installed:
 
 1.) Python 3
+
 2.) Requests
+
 3.) Pandas
 
 # Reproducibility
