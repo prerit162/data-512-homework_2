@@ -25,11 +25,17 @@ The US Census Bureau provides updated population estimates for every US state - 
 List of regions of the United States by the US Census Bureau - US States by Region - US Census Bureau.xlsx
 
 Objective Revision Evaluation Service - A machine learning tool that can provide estimates of Wikipedia article quality. The article quality estimates are, from best to worst:
+
 FA - Featured article
+
 GA - Good article (sometimes called A-class)
+
 B - B-class article
+
 C - C-class article
+
 Start - Start-class article
+
 Stub - Stub-class article
 
 # API documentation
