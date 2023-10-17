@@ -21,6 +21,21 @@ The goal of this assignment is to explore the concept of bias in data using Wiki
 &nbsp;&nbsp;&nbsp;├── Analysis_5.png<br>
 &nbsp;&nbsp;&nbsp;├── Analysis_6.png<br>
 
+# Prerequisites
+Before using this code, ensure you have the following prerequisites installed:
+
+1.) Python 3
+2.) Requests
+3.) Pandas
+
+# Reproducibility
+
+The following steps need to followed to run this code seamlessly :
+
+&emsp; Clone this repository to your local machine.<br>
+&emsp; Install all the required libraries.<br>
+&emsp; Run Analysis.ipynb to generate all Analysis Tables and output csv file<br>
+
 
 # Data Sources and Description
 
