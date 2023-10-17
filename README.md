@@ -75,6 +75,8 @@ Stub - Stub-class article
 
 # Licenses and Reference Code
 
+This project is licensed under the MIT License.
+
 [Reference Code for MediaWiki API](https://colab.research.google.com/drive/15UoE16s-IccCTOXREjU3xDIz07tlpyrl)
 
 [Reference Code for ORES API](https://colab.research.google.com/drive/17C9xsmR9U3lJeD52UTbAedlHDetwYsxs#scrollTo=GgcjNS0j2VSQ)
