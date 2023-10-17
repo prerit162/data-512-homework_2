@@ -10,9 +10,9 @@ The goal of this assignment is to explore the concept of bias in data using Wiki
 &nbsp;&nbsp;&nbsp;├── Wiki_Scraped_data.csv<br>
 &nbsp;&nbsp;&nbsp;├── ores_score.csv<br>
 &nbsp;&nbsp;&nbsp;├── us_cities_by_state_SEPT.2023.csv<br>
-├── <b>Code/<br>
+├── <b>Code/</b><br>
 &nbsp;&nbsp;&nbsp;├── Analysis.ipynb<br>
-├── <b>Output/<br>
+├── <b>Output/</b><br>
 &nbsp;&nbsp;&nbsp;├── wp_scored_city_articles_by_state.csv<br>
 
 
