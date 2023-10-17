@@ -10,8 +10,7 @@ wp_scored_city_articles_by_state.csv
 
 The file is of the following schema which contains merged data from all the data sources:
 
-Columns
-<b> state , <b> regional_division, <b> population, <b> article_title , <b>revision_id , <b>article_quality
+Columns : <b> state , <b> regional_division, <b> population, <b> article_title , <b>revision_id , <b>article_quality
 
 
 
