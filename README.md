@@ -5,16 +5,15 @@ The goal of this assignment is to explore the concept of bias in data using Wiki
 # Folder Hierarchy
 
 ├── Data/<br>
-│   ├── thank_the_academy.AUG.2023.csv.xlsx<br>
+│   ├── Population.xlsx<br>
+│   ├── US States by Region - US Census Bureau.xlsx<br>
+│   ├── Wiki_Scraped_data.csv<br>
+│   ├── ores_score.csv<br>
+│   ├── us_cities_by_state_SEPT.2023.csv<br>
 ├── Code/<br>
 │   └── Analysis.ipynb<br>
 └── Output/<br>
-&emsp; ├── academy_monthly_cumulative_201507-202309.json<br>
-&emsp; ├── academy_monthly_mobile_201507-202309.json<br>
-&emsp; └── academy_monthly_desktop_201507-202309.json<br>
-&emsp; └── Fewest10_plot.png<br>
-&emsp; └── Max_Min_plot.png<br>
-&emsp; └── Top10_plot.png<br>
+│   └── wp_scored_city_articles_by_state.csv<br>
 
 
 # Data Sources and Description
@@ -46,7 +45,10 @@ Stub - Stub-class article
 [ORES LiftWing documentation](https://wikitech.wikimedia.org/wiki/Machine_Learning/LiftWing/Usage)
 
 # Code
-[Reference Code for API call](https://drive.google.com/file/d/1XjFhd3eXx704tcdfQ4Q1OQn0LWKCRNJm/view)
+
+[Reference Code for MediaWiki API](https://colab.research.google.com/drive/15UoE16s-IccCTOXREjU3xDIz07tlpyrl)
+
+[Reference Code for ORES API](https://colab.research.google.com/drive/17C9xsmR9U3lJeD52UTbAedlHDetwYsxs#scrollTo=GgcjNS0j2VSQ)
 
 [License](https://creativecommons.org/licenses/by/4.0/)
 
