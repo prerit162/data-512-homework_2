@@ -6,14 +6,14 @@ The goal of this assignment is to explore the concept of bias in data using Wiki
 
 ├── Data/<br>
 &nbsp;&nbsp;&nbsp;├── Population.xlsx<br>
-    ├── US States by Region - US Census Bureau.xlsx<br>
-    ├── Wiki_Scraped_data.csv<br>
-    ├── ores_score.csv<br>
-    ├── us_cities_by_state_SEPT.2023.csv<br>
+&nbsp;&nbsp;&nbsp;├── US States by Region - US Census Bureau.xlsx<br>
+&nbsp;&nbsp;&nbsp;├── Wiki_Scraped_data.csv<br>
+&nbsp;&nbsp;&nbsp;├── ores_score.csv<br>
+&nbsp;&nbsp;&nbsp;├── us_cities_by_state_SEPT.2023.csv<br>
 ├── Code/<br>
-    └── Analysis.ipynb<br>
+&nbsp;&nbsp;&nbsp;└── Analysis.ipynb<br>
 └── Output/<br>
-    └── wp_scored_city_articles_by_state.csv<br>
+&nbsp;&nbsp;&nbsp;└── wp_scored_city_articles_by_state.csv<br>
 
 
 # Data Sources and Description
