@@ -103,11 +103,11 @@ This assignment code is released under the MIT License.
 
 # Reflection and Addressing Questions
 
-<b> What biases did you expect to find in the data (before you started working with it), and why? </b>
+<b> What biases did you expect to find in the data (before you started working with it), and why?
 
 I believed there would be a bias with the quality of articles with highest literacy rates such as New Hampshire, Alaska, Vermont etc having the best coverage of articles per capita
 
-<b> Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might create biased or misleading results, due to the inherent gaps and limitations of the data? </b>
+<b> Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might create biased or misleading results, due to the inherent gaps and limitations of the data?
 
 As a data scientist, I believe that there is a constant threat to racial equality and diversity with most modern day Recommender systems, Word Embeddings and Large Language Models. Using Word Embeddings as an example, it is important to address that the similarity of [embeddings](https://blog.acolyer.org/2020/12/08/bias-in-word-embeddings/) are not influenced by the training data scraped from the internet which includes polarized opinions.Algorithms have a finely tuned ability to recognize and learn from social patterns which were prevalent previously and they overgeneralize those patterns. This affects more than race—the lack of diversity with recommendations also includes gender, sexuality, and disability. I believe we need to make efforts to remove these biases. What the world needs is the harmony between being data-informed and social nuance.
 
