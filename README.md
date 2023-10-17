@@ -84,7 +84,7 @@ Stub - Stub-class article
 
 # Output
 
-Output CSV - wp_scored_city_articles_by_state.csv
+<b>wp_scored_city_articles_by_state.csv </b> - Output File
 
 The file is of the following schema which contains merged data from all the data sources:
 
