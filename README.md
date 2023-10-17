@@ -103,15 +103,17 @@ This assignment code is released under the MIT License.
 
 # Reflection and Addressing Questions
 
-What biases did you expect to find in the data (before you started working with it), and why?
+<b>What biases did you expect to find in the data (before you started working with it), and why? </b>
 
-What (potential) sources of bias did you discover in the course of your data processing and analysis?
+I believed there would be a bias with the quality of articles with highest literacy rates such as New Hampshire, Alaska, Vermont etc having the best coverage of articles per capita
 
-What might your results suggest about (English) Wikipedia as a data source?
+<b>Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might create biased or misleading results, due to the inherent gaps and limitations of the data?</b>
 
-Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might create biased or misleading results, due to the inherent gaps and limitations of the data?
+As a data scientist, I believe that there is a constant threat to racial equality and diversity with most modern day Recommender systems, Word Embeddings and Large Language Models. Using Word Embeddings as an example, it is important to address that the similarity of [embeddings](https://blog.acolyer.org/2020/12/08/bias-in-word-embeddings/) are not influenced by the training data scraped from the internet which includes polarized opinions.Algorithms have a finely tuned ability to recognize and learn from social patterns which were prevalent previously and they overgeneralize those patterns. This affects more than race—the lack of diversity with recommendations also includes gender, sexuality, and disability. I believe we need to make efforts to remove these biases. What the world needs is the harmony between being data-informed and social nuance.
 
-Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might still be appropriate and useful, despite its inherent limitations and biases?
+<b>How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?</b>
 
-How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?
+I think it is important to remove inherent bias due to variables that might be impact the coverage such as confounding variables. A researcher can add a factor of the literacy rate as a division factor with the article per capita ratio to address and remove this bias.
 
+<b> </b>
+This assignment served as a great follow up to the reproducibility assignment as there were multiple sources which needed to be merged. It involved documenting the code well and checking shape and structure of dataframes to make it reproducible
