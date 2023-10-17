@@ -71,7 +71,7 @@ Output CSV - wp_scored_city_articles_by_state.csv
 
 The file is of the following schema which contains merged data from all the data sources:
 
-Columns : <b> state , <b> regional_division, <b> population, <b> article_title , <b>revision_id , <b>article_quality
+Columns : <b> state </b>, <b> regional_division </b>, <b> population </b>, <b> article_title </b>, <b>revision_id </b>, <b>article_quality </b>
 
 Analysis 1 : Top 10 US states by coverage: The 10 US states with the highest total articles per capita (in descending order) 
 
