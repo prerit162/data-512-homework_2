@@ -6,7 +6,23 @@ The goal of this assignment is to explore the concept of bias in data using Wiki
 
 # Output
 
+wp_scored_city_articles_by_state.csv
+
+The file is of the following schema which contains merged data from all the data sources:
+
+Columns
+<br> state
+<br> regional_division
+<br> population
+<br> article_title
+<br>revision_id
+<br>article_quality
+
+
+
 # License
+
+This assignment code is released under the MIT License.
 
 # Reflection and Addressing Questions
 
