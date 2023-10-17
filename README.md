@@ -41,13 +41,13 @@ The following steps need to followed to run this code seamlessly :
 
 # Data Sources and Description
 
-The Wikipedia Category:Lists of cities in the United States by state - us_cities_by_state_SEPT.2023.csv
+<b>us_cities_by_state_SEPT.2023.csv </b> - The Wikipedia Category:Lists of cities in the United States by state
 
-The US Census Bureau population estimates for every US state - Population.xlsx
+<b>Population.xlsx </b> -The US Census Bureau population estimates for every US state
 
-List of regions of the United States by the US Census Bureau - US States by Region - US Census Bureau.xlsx
+<b>US States by Region - US Census Bureau.xlsx </b> - List of regions of the United States by the US Census Bureau 
 
-Objective Revision Evaluation Service - A machine learning tool that can provide estimates of Wikipedia article quality. The article quality estimates are, from best to worst:
+<b> Objective Revision Evaluation Service - A machine learning tool that can provide estimates of Wikipedia article quality. The article quality estimates are, from best to worst:</b>
 
 FA - Featured article
 
