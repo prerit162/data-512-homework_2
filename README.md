@@ -14,6 +14,12 @@ The goal of this assignment is to explore the concept of bias in data using Wiki
 &nbsp;&nbsp;&nbsp;├── Analysis.ipynb<br>
 ├── <b>Output/</b><br>
 &nbsp;&nbsp;&nbsp;├── wp_scored_city_articles_by_state.csv<br>
+&nbsp;&nbsp;&nbsp;├── Analysis_1.png<br>
+&nbsp;&nbsp;&nbsp;├── Analysis_2.png<br>
+&nbsp;&nbsp;&nbsp;├── Analysis_3.png<br>
+&nbsp;&nbsp;&nbsp;├── Analysis_4.png<br>
+&nbsp;&nbsp;&nbsp;├── Analysis_5.png<br>
+&nbsp;&nbsp;&nbsp;├── Analysis_6.png<br>
 
 
 # Data Sources and Description
@@ -61,7 +67,7 @@ Stub - Stub-class article
 
 # Output
 
-wp_scored_city_articles_by_state.csv
+Output CSV - wp_scored_city_articles_by_state.csv
 
 The file is of the following schema which contains merged data from all the data sources:
 
