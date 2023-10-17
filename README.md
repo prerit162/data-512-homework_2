@@ -69,27 +69,27 @@ Columns : <b> state , <b> regional_division, <b> population, <b> article_title ,
 
 Analysis 1 : Top 10 US states by coverage: The 10 US states with the highest total articles per capita (in descending order) 
 
-![image](../Output/Analysis_1.png)
+![image](./Output/Analysis_1.png)
 
 Analysis 2 : Bottom 10 US states by coverage: The 10 US states with the lowest total articles per capita (in ascending order) 
 
-![image](../Output/Analysis_2.png)
+![image](./Output/Analysis_2.png)
 
 Analysis 3 : Top 10 US states by high quality: The 10 US states with the highest high quality articles per capita (in descending order)
 
-![image](../Output/Analysis_3.png)
+![image](./Output/Analysis_3.png)
 
 Analysis 4 : Bottom 10 US states by high quality: The 10 US states with the lowest high quality articles per capita (in ascending order)
 
-![image](../Output/Analysis_4.png)
+![image](./Output/Analysis_4.png)
 
 Analysis 5 : Census divisions by total coverage: A rank ordered list of US census divisions (in descending order) by total articles per capita
 
-![image](../Output/Analysis_5.png)
+![image](./Output/Analysis_5.png)
 
 Analysis 6 : Census divisions by high quality coverage: Rank ordered list of US census divisions (in descending order) by high quality articles per capita
 
-![image](../Output/Analysis_6.png)
+![image](./Output/Analysis_6.png)
 
 # License
 
