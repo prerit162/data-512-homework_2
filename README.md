@@ -67,7 +67,17 @@ The file is of the following schema which contains merged data from all the data
 
 Columns : <b> state , <b> regional_division, <b> population, <b> article_title , <b>revision_id , <b>article_quality
 
+Analysis 1 : Top 10 US states by coverage: The 10 US states with the highest total articles per capita (in descending order) 
 
+Analysis 2 : Bottom 10 US states by coverage: The 10 US states with the lowest total articles per capita (in ascending order) 
+
+Analysis 3 : Top 10 US states by high quality: The 10 US states with the highest high quality articles per capita (in descending order)
+
+Analysis 4 : Bottom 10 US states by high quality: The 10 US states with the lowest high quality articles per capita (in ascending order)
+
+Analysis 5 : Census divisions by total coverage: A rank ordered list of US census divisions (in descending order) by total articles per capita
+
+Analysis 6 : Census divisions by high quality coverage: Rank ordered list of US census divisions (in descending order) by high quality articles per capita
 
 # License
 
